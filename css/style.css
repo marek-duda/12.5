@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto|Oswald|Lato');
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: beige;
+    text-align: center;
+}
+
+.trigger {
+    background-color: steelblue;
+    color: white;
+    border-radius: 5px;
+    font-size: 1.2em;
+    border: none;
+    padding: 15px;
+    margin: 5px;
+    outline: none;
+}
+
+.trigger:hover {
+    background-color: silver;
+}
+
+a {
+    text-decoration: none;
+    color: steelblue;
+    font-size: 1.5em;
+}
+
+a:hover {
+    color: silver;
+}
